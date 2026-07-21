@@ -1,0 +1,16 @@
+C:\Users\lap\source\Career\University.CleanArchitecture\University.Infrastructure\bin\Debug\net10.0\University.Infrastructure.deps.json
+C:\Users\lap\source\Career\University.CleanArchitecture\University.Infrastructure\bin\Debug\net10.0\University.Infrastructure.dll
+C:\Users\lap\source\Career\University.CleanArchitecture\University.Infrastructure\bin\Debug\net10.0\University.Infrastructure.pdb
+C:\Users\lap\source\Career\University.CleanArchitecture\University.Infrastructure\bin\Debug\net10.0\University.Domain.dll
+C:\Users\lap\source\Career\University.CleanArchitecture\University.Infrastructure\bin\Debug\net10.0\University.Domain.pdb
+C:\Users\lap\source\Career\University.CleanArchitecture\University.Infrastructure\obj\Debug\net10.0\University.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lap\source\Career\University.CleanArchitecture\University.Infrastructure\obj\Debug\net10.0\University.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lap\source\Career\University.CleanArchitecture\University.Infrastructure\obj\Debug\net10.0\University.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lap\source\Career\University.CleanArchitecture\University.Infrastructure\obj\Debug\net10.0\University.Infrastructure.AssemblyInfo.cs
+C:\Users\lap\source\Career\University.CleanArchitecture\University.Infrastructure\obj\Debug\net10.0\University.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lap\source\Career\University.CleanArchitecture\University.Infrastructure\obj\Debug\net10.0\University.Infrastructure.sourcelink.json
+C:\Users\lap\source\Career\University.CleanArchitecture\University.Infrastructure\obj\Debug\net10.0\Universi.0BEE095E.Up2Date
+C:\Users\lap\source\Career\University.CleanArchitecture\University.Infrastructure\obj\Debug\net10.0\University.Infrastructure.dll
+C:\Users\lap\source\Career\University.CleanArchitecture\University.Infrastructure\obj\Debug\net10.0\refint\University.Infrastructure.dll
+C:\Users\lap\source\Career\University.CleanArchitecture\University.Infrastructure\obj\Debug\net10.0\University.Infrastructure.pdb
+C:\Users\lap\source\Career\University.CleanArchitecture\University.Infrastructure\obj\Debug\net10.0\ref\University.Infrastructure.dll
